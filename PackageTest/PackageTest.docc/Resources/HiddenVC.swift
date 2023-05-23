@@ -14,5 +14,6 @@ class HiddevVC:UIViewController{
     }
     public func startFramework(){
         print("Framework Started")
+        print("new");
     }
 }
